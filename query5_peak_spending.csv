@@ -1,0 +1,38 @@
+SQL> SELECT Category, Month, Amount AS Max_Spent
+  2  FROM personal_finance pf1
+  3  WHERE Type = 'Debit'
+  4  AND Amount = (
+  5      SELECT MAX(Amount)
+  6      FROM personal_finance pf2
+  7      WHERE pf2.Category = pf1.Category
+  8      AND Type = 'Debit'
+  9  )
+ 10  ORDER BY Max_Spent DESC;
+
+CATEGORY                       MONTH                 MAX_SPENT                  
+------------------------------ -------------------- ----------                  
+Housing                        Jan-2024                  14000                  
+Housing                        Feb-2024                  14000                  
+Housing                        Mar-2024                  14000                  
+Housing                        Apr-2024                  14000                  
+Housing                        May-2024                  14000                  
+Housing                        Jun-2024                  14000                  
+Housing                        Jul-2024                  14000                  
+Housing                        Aug-2024                  14000                  
+Housing                        Sep-2024                  14000                  
+Housing                        Oct-2024                  14000                  
+Housing                        Nov-2024                  14000                  
+
+CATEGORY                       MONTH                 MAX_SPENT                  
+------------------------------ -------------------- ----------                  
+Housing                        Dec-2024                  14000                  
+Shopping                       Nov-2024                  11794                  
+Savings                        Jul-2024                  11254                  
+Food                           Sep-2024                   7471                  
+Entertainment                  Oct-2024                   6196                  
+Transport                      Feb-2024                   3008                  
+Health                         Oct-2024                   2492                  
+
+18 rows selected.
+
+SQL> SPOOL OFF

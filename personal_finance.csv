@@ -1,0 +1,97 @@
+Transaction_ID,Month,Category,Description,Amount,Type
+1,Jan-2024,Income,Salary,55000,Credit
+2,Jan-2024,Housing,Rent,14000,Debit
+3,Jan-2024,Food,Groceries & Dining,6619,Debit
+4,Jan-2024,Transport,Fuel & Cab,1728,Debit
+5,Jan-2024,Entertainment,"OTT, Movies, Eating Out",1102,Debit
+6,Jan-2024,Shopping,Clothes & Electronics,1626,Debit
+7,Jan-2024,Health,Medicine & Gym,1001,Debit
+8,Jan-2024,Savings,SIP & FD,6828,Debit
+9,Feb-2024,Income,Salary,55000,Credit
+10,Feb-2024,Housing,Rent,14000,Debit
+11,Feb-2024,Food,Groceries & Dining,4571,Debit
+12,Feb-2024,Transport,Fuel & Cab,3008,Debit
+13,Feb-2024,Entertainment,"OTT, Movies, Eating Out",1419,Debit
+14,Feb-2024,Shopping,Clothes & Electronics,2733,Debit
+15,Feb-2024,Health,Medicine & Gym,678,Debit
+16,Feb-2024,Savings,SIP & FD,9837,Debit
+17,Mar-2024,Income,Salary,55000,Credit
+18,Mar-2024,Housing,Rent,14000,Debit
+19,Mar-2024,Food,Groceries & Dining,5728,Debit
+20,Mar-2024,Transport,Fuel & Cab,1565,Debit
+21,Mar-2024,Entertainment,"OTT, Movies, Eating Out",1122,Debit
+22,Mar-2024,Shopping,Clothes & Electronics,883,Debit
+23,Mar-2024,Health,Medicine & Gym,947,Debit
+24,Mar-2024,Savings,SIP & FD,6905,Debit
+25,Apr-2024,Income,Salary,55000,Credit
+26,Apr-2024,Housing,Rent,14000,Debit
+27,Apr-2024,Food,Groceries & Dining,6069,Debit
+28,Apr-2024,Transport,Fuel & Cab,2732,Debit
+29,Apr-2024,Entertainment,"OTT, Movies, Eating Out",1108,Debit
+30,Apr-2024,Shopping,Clothes & Electronics,2798,Debit
+31,Apr-2024,Health,Medicine & Gym,907,Debit
+32,Apr-2024,Savings,SIP & FD,10865,Debit
+33,May-2024,Income,Salary,55000,Credit
+34,May-2024,Housing,Rent,14000,Debit
+35,May-2024,Food,Groceries & Dining,6661,Debit
+36,May-2024,Transport,Fuel & Cab,2936,Debit
+37,May-2024,Entertainment,"OTT, Movies, Eating Out",3232,Debit
+38,May-2024,Shopping,Clothes & Electronics,2218,Debit
+39,May-2024,Health,Medicine & Gym,951,Debit
+40,May-2024,Savings,SIP & FD,8679,Debit
+41,Jun-2024,Income,Salary,55000,Credit
+42,Jun-2024,Housing,Rent,14000,Debit
+43,Jun-2024,Food,Groceries & Dining,6413,Debit
+44,Jun-2024,Transport,Fuel & Cab,2069,Debit
+45,Jun-2024,Entertainment,"OTT, Movies, Eating Out",1026,Debit
+46,Jun-2024,Shopping,Clothes & Electronics,1153,Debit
+47,Jun-2024,Health,Medicine & Gym,1929,Debit
+48,Jun-2024,Savings,SIP & FD,8462,Debit
+49,Jul-2024,Income,Salary,55000,Credit
+50,Jul-2024,Housing,Rent,14000,Debit
+51,Jul-2024,Food,Groceries & Dining,5393,Debit
+52,Jul-2024,Transport,Fuel & Cab,2069,Debit
+53,Jul-2024,Entertainment,"OTT, Movies, Eating Out",1636,Debit
+54,Jul-2024,Shopping,Clothes & Electronics,1381,Debit
+55,Jul-2024,Health,Medicine & Gym,2460,Debit
+56,Jul-2024,Savings,SIP & FD,11254,Debit
+57,Aug-2024,Income,Salary,55000,Credit
+58,Aug-2024,Housing,Rent,14000,Debit
+59,Aug-2024,Food,Groceries & Dining,5378,Debit
+60,Aug-2024,Transport,Fuel & Cab,1709,Debit
+61,Aug-2024,Entertainment,"OTT, Movies, Eating Out",1379,Debit
+62,Aug-2024,Shopping,Clothes & Electronics,2056,Debit
+63,Aug-2024,Health,Medicine & Gym,698,Debit
+64,Aug-2024,Savings,SIP & FD,7940,Debit
+65,Sep-2024,Income,Salary,55000,Credit
+66,Sep-2024,Housing,Rent,14000,Debit
+67,Sep-2024,Food,Groceries & Dining,7471,Debit
+68,Sep-2024,Transport,Fuel & Cab,2204,Debit
+69,Sep-2024,Entertainment,"OTT, Movies, Eating Out",3472,Debit
+70,Sep-2024,Shopping,Clothes & Electronics,1583,Debit
+71,Sep-2024,Health,Medicine & Gym,2152,Debit
+72,Sep-2024,Savings,SIP & FD,5355,Debit
+73,Oct-2024,Income,Salary,55000,Credit
+74,Oct-2024,Housing,Rent,14000,Debit
+75,Oct-2024,Food,Groceries & Dining,6988,Debit
+76,Oct-2024,Transport,Fuel & Cab,2440,Debit
+77,Oct-2024,Entertainment,"OTT, Movies, Eating Out",6196,Debit
+78,Oct-2024,Shopping,Clothes & Electronics,6022,Debit
+79,Oct-2024,Health,Medicine & Gym,2492,Debit
+80,Oct-2024,Savings,SIP & FD,8100,Debit
+81,Nov-2024,Income,Salary,55000,Credit
+82,Nov-2024,Housing,Rent,14000,Debit
+83,Nov-2024,Food,Groceries & Dining,4322,Debit
+84,Nov-2024,Transport,Fuel & Cab,2630,Debit
+85,Nov-2024,Entertainment,"OTT, Movies, Eating Out",5200,Debit
+86,Nov-2024,Shopping,Clothes & Electronics,11794,Debit
+87,Nov-2024,Health,Medicine & Gym,1787,Debit
+88,Nov-2024,Savings,SIP & FD,10066,Debit
+89,Dec-2024,Income,Salary,55000,Credit
+90,Dec-2024,Housing,Rent,14000,Debit
+91,Dec-2024,Food,Groceries & Dining,5481,Debit
+92,Dec-2024,Transport,Fuel & Cab,2682,Debit
+93,Dec-2024,Entertainment,"OTT, Movies, Eating Out",4787,Debit
+94,Dec-2024,Shopping,Clothes & Electronics,784,Debit
+95,Dec-2024,Health,Medicine & Gym,593,Debit
+96,Dec-2024,Savings,SIP & FD,10417,Debit
